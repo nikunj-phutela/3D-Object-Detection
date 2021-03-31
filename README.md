@@ -116,25 +116,6 @@ tensorboard --logdir=./
 
 - Then go to [http://localhost:6006/](http://localhost:6006/)
 
-
-## Contact
-
-If you think this work is useful, please give me a star! <br>
-If you find any errors or have any suggestions, please contact me (**Email:** `nguyenmaudung93.kstn@gmail.com`). <br>
-Thank you!
-
-
-## Citation
-
-```bash
-@misc{Super-Fast-Accurate-3D-Object-Detection-PyTorch,
-  author =       {Nguyen Mau Dung},
-  title =        {{Super-Fast-Accurate-3D-Object-Detection-PyTorch}},
-  howpublished = {\url{https://github.com/maudzung/Super-Fast-Accurate-3D-Object-Detection}},
-  year =         {2020}
-}
-```
-
 ## References
 
 [1] CenterNet: [Objects as Points paper](https://arxiv.org/abs/1904.07850), [PyTorch Implementation](https://github.com/xingyizhou/CenterNet) <br>
